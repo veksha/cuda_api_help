@@ -1,0 +1,17 @@
+[info]
+title=CudaText API help
+desc=Open CudaText API wiki as file and jump to specified section.
+type=cudatext-plugin
+subdir=cuda_api_help
+homepage=https://github.com/veksha/cuda_api_help
+
+[item2]
+section=commands
+caption=CudaText API help\Open wiki file
+method=cmd_open_wiki
+
+[item3]
+section=commands
+caption=CudaText API help\Jump to section
+method=cmd_jump_to_section
+
